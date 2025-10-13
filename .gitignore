@@ -1,0 +1,13 @@
+# Ignore OS and temp files
+.DS_Store
+Thumbs.db
+
+# Ignore credentials or private keys
+*.pem
+*.key
+*.crt
+*.env
+
+# Ignore IDE/project files
+.vscode/
+.idea/
