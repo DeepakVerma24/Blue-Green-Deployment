@@ -87,6 +87,7 @@ See [deployment_steps.md](./deployment_steps.md) for a full step-by-step impleme
 ---
 
 ## 👩‍💻 Author
-**Keerthi B**  
-📧 Email: bkeerthi1528@gmail.com  
-🔗 LinkedIn: [www.linkedin.com/in/siva-sai-keerthi-bondalapati-b89779248](#)
+**Deepak Verma**  
+📧 Email: deepakvermaiball24@gmail.com  
+
+
